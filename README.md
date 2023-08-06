@@ -3,8 +3,6 @@
 
 # CRUD RESTful API with Java, MySQL, Spring Boot, JPA, and Maven
 
-//![Project Logo/Image](link-to-image.png)
-
 ## Introduction
 
 A brief introduction to your project, explaining what it does and its purpose. You can mention that it's a CRUD RESTful API built using Java, MySQL, Spring Boot, JPA, and Maven.
@@ -99,7 +97,7 @@ DELETE localhost:8080/delete/1
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contributing
 
